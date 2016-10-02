@@ -1,0 +1,19 @@
+{
+  "name": "tagalizer",
+  "version": "0.0.1",
+  "main": "tagalizer.js",
+  "authors": [
+    "Willian <willianbriotto@gmail.com>"
+  ],
+  "description": "A tag editor jquery",
+  "keywords": [
+    "tag",
+    "tag-editor",
+    "tag-jquery"
+  ],
+  "license": "GPL3",
+  "homepage": "https://github.com/willianbriotto/tagalizer",
+  "dependencies": {
+    "jquery": ">=1.11.0"
+  }
+}
